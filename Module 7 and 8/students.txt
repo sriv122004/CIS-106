@@ -1,0 +1,15 @@
+Rivera
+I
+12
+Saavedra
+O
+10
+Hernandez
+I
+15
+Flores
+O
+8
+Salgado
+I
+16

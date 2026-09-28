@@ -1,0 +1,15 @@
+Tacos
+5
+3.50
+Burrito
+2
+8.00
+Pizza
+3
+12.00
+Burger
+4
+7.50
+Fries
+6
+4.00

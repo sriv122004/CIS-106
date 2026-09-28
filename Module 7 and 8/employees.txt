@@ -1,0 +1,10 @@
+Rivera
+50000.00
+Saavedra
+75000.00
+Hernandez
+45000.00
+Flores
+120000.00
+Salgado
+35000.00
